@@ -71,7 +71,7 @@ $(window).scroll(function(){
     const footer = $('.footer');
   
     footer.css({
-      'transform' : `translateY(${footerScroll/8}px)`
+      'transform' : `translateY(${footerScroll/6}px)`
     });
   
 });
